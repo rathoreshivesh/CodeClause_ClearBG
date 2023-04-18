@@ -1,1 +1,2 @@
 # CodeClause_ClearBG
+This is a GitHub repository containing a website built using HTML, JavaScript, and the Remove.bg API that allows users to remove the background from any image and download the new image. With this tool, users can upload an image and the website will utilize the Remove.bg API to automatically remove the background, leaving only the subject of the image. The user can then download the newly edited image to their device.
